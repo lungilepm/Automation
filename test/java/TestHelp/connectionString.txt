@@ -1,0 +1,2 @@
+jdbc:sqlserver://10.1.176.69:1433;server=gamingdb1\\inst2;databaseName=casino;user=sa;password=!@#$%A1;
+jdbc:sqlserver://10.1.162.216:1433;server=gamingdb7;databaseName=eventinsight;user=sa;password=!@#$%A1;
